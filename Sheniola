@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olaseni Afekiku - Data Analyst Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Olaseni Afekiku</h1>
+        <p>Data Analyst | SQL | Python | Power BI | Tableau</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my portfolio! I'm a results-driven data analyst with experience in data visualization, automation, and business intelligence.</p>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Project 1:</strong> Data Cleaning & Visualization in Python</li>
+            <li><strong>Project 2:</strong> SQL Database Analysis & Reporting</li>
+            <li><strong>Project 3:</strong> Power BI Dashboard for Business Insights</li>
+        </ul>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>SQL, Python, R</li>
+            <li>Power BI, Tableau, Excel</li>
+            <li>Data Cleaning & Transformation</li>
+            <li>Machine Learning & Predictive Analytics</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:olasenidaramola17@gmail.com">olasenidaramola17@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/olaseni-afekiku-1b0212129" target="_blank">LinkedIn Profile</a></p>
+        <p>GitHub: <a href="https://github.com/yourgithubusername" target="_blank">GitHub Portfolio</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Olaseni Afekiku. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
